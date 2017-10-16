@@ -35,7 +35,7 @@ npm install
 ```
 
 ## Serve a static page
-1. Create a "public" directory inside the `src` directory
+1. Create a "public" directory
 ```
 mkdir public
 ```
